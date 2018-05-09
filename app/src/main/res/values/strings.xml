@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wylosuj sobie ocenę</string>
+    <string name="mainText">Potrząśnij telefonem, aby wylosować ocenę.</string>
+    <string name="successMsg">Gratulacje, udało Ci się zdać mało potrzebny przedmiot!</string>
+    <string name="failureMsg">No trudno, następnym razem się uda ;)</string>
+</resources>
