@@ -3,5 +3,5 @@
     <string name="mainText">Potrząśnij telefonem, a kula wywróży Twoją ocenę.</string>
     <string name="successMsg">Gratulacje, uda Ci się zdać mało potrzebny przedmiot!</string>
     <string name="failureMsg">No trudno, następnym razem się uda ;)</string>
-    <string name="accessFailureMessage">Przykro mi, nie zdał(a) Pan(i).</string>
+    <string name="accessFailureMessage">Przykro mi, nie zda Pan(i).</string>
 </resources>

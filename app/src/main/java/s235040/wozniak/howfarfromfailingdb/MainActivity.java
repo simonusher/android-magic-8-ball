@@ -181,6 +181,7 @@ public class MainActivity extends Activity implements SensorEventListener {
         animShake.setAnimationListener(new Animation.AnimationListener() {
             @Override
             public void onAnimationStart(Animation animation) {
+                clearFields();
                 soundPool.play(waterSoundId, 1, 1, 0, 0 , 1);
             }
 

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HowFarFromFailingDB.iml" filepath="$PROJECT_DIR$/HowFarFromFailingDB.iml" />
+      <module fileurl="file://C:\Projekty\Studia\magic-8ball\HowFarFromFailingDB.iml" filepath="C:\Projekty\Studia\magic-8ball\HowFarFromFailingDB.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Projekty\Studia\magic-8ball\app\app.iml" filepath="C:\Projekty\Studia\magic-8ball\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magic-8ball.iml" filepath="$PROJECT_DIR$/magic-8ball.iml" />
     </modules>
   </component>
 </project>
